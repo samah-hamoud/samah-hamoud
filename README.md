@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi there! I'm Samah Hamoud
 
-<!--
-**samah-hamoud/samah-hamoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎯 Software Tester | Passionate About Quality Assurance
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a Software Tester with a passion for ensuring software is reliable, functional, and user-friendly. I enjoy working on manual and automated testing projects, finding and documenting bugs, and improving the overall quality of software products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools:
+- **Testing Types**: Manual Testing, Automated Testing, API Testing, Regression Testing, Black-box Testing
+- **Automation Tools**: Selenium
+- **API Testing**: Postman
+- **Programming Languages**: Java (for test automation)
+- **Test Case Management**: JIRA, Google Sheet, Excel
+
+### 🔬 Projects & Repositories:
+Here are some projects I've worked on that showcase my software testing skills:
+- **[UI Automation with Selenium](https://github.com/samah-hamoud/UI-Automation-Selenium)**: A collection of automated UI tests using Selenium to validate the functionality of various web pages.
+- **[API Testing Suite](https://github.com/samah-hamoud/api-testing-suite)**: API testing using Postman for popular open APIs.
+- **[Bug Reports & Test Cases](https://github.com/samah-hamoud/bug-reports-test-cases)**: A repository to showcase my experience in writing test cases and documenting bug reports.
+
+### 🌱 What I’m Currently Learning:
+- Enhancing my skills in **performance testing** and **load testing**.
+- Learning more about **security testing** techniques.
+
+### 🤝 Let’s Connect!
+- **LinkedIn**: [Samah Hamoud](https://www.linkedin.com/in/samah-f-hamoud)
+- **GitHub**: Feel free to explore my repositories and connect for any collaboration!
+
+### 💡 Motto:
+"Quality is never an accident; it is always the result of intelligent effort."
